@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Aditya (saneadi#0001). 👋
 
 <!--
 **adityasanehi/AdityaSanehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasanehi&show_icons=true&theme=tokyonight&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityasanehi&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)
