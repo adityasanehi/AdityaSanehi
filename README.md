@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityasanehi&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Adi's Favourite Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasanehi)
+![Adi's Favourite Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasanehi&show_icons=true&theme=tokyonight&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityasanehi&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityasanehi&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)
