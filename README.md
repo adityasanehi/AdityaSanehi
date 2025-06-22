@@ -18,7 +18,4 @@ Here are some ideas to get you started:
 -->
 
 Stats:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityasanehi&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D)
-
 ![Adi's Favourite Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasanehi&show_icons=true&theme=tokyonight&count_private=true&layout=compact)
